@@ -5,7 +5,7 @@
 ## Results
  * In our analysis we compared the performance of 12 companies in the years 2017 & 2018.
  * The metrics we used to measure were Total Daily Volume and Return
- * To measure Total Daily Volume we wrote the code below.
+ * To measure Total Daily Volume & Return for each year we wrote the code below:
  ``` 
         tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8)
     
@@ -27,6 +27,8 @@
    Cells(20 + i, 2).Value = tickerVolumes(i)
    Cells(20 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
  ```
+ This code summed up the total daily volume for each stock in the given year. It also found the starting & ending price of the first & last trading day in the year. Once it foudn those values the code dived ending price by starting and subtracted 1 to give us the return for the year.
+ 
  
 ![image](https://user-images.githubusercontent.com/67936161/88487775-e24e6f80-cf3c-11ea-859d-e5cf093ee6d8.png)
 ![image](https://user-images.githubusercontent.com/67936161/88487787-0447f200-cf3d-11ea-804b-667fa25eda43.png)
