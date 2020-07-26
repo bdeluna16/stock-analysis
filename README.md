@@ -49,6 +49,8 @@
   **2.** The refactored code can be used again in different workbooks and different dataset making it very versatile. 
  
  * Disadvantages of refactoring code:
-   **1.** It can be time consuming to refactor code.
-   **2.** It could introduce errors especially when refactoring complex/large amounts of code.
+  
+  **1.** It can be time consuming to refactor code.
+  
+  **2.** It could introduce errors especially when refactoring complex/large amounts of code.
    
