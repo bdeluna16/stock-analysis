@@ -39,7 +39,7 @@
 ## Summary
 * Advantages of refactoring code:
  
- **1.** Code runs a lot faster. The initial code ran at an average pace of 0.6464844 seconds while the refactored code ran at an average pace of 0.0996094. The refactored code runs significanlty faster than the initial code.
+  **1.** Code runs a lot faster. The initial code ran at an average pace of 0.6464844 seconds while the refactored code ran at an average pace of 0.0996094. The refactored code runs significanlty faster than the initial code.
 
 ![image](https://user-images.githubusercontent.com/67936161/88488825-ccdd4380-cf44-11ea-9c3a-f94429c43c9e.png)
 ![image](https://user-images.githubusercontent.com/67936161/88488829-d8306f00-cf44-11ea-989f-b29538de9fe8.png)
@@ -50,7 +50,7 @@
  
  * Disadvantages of refactoring code:
   
-  **1.** It can be time consuming to refactor code.
+   **1.** It can be time consuming to refactor code.
   
-  **2.** It could introduce errors especially when refactoring complex/large amounts of code.
+   **2.** It could introduce errors especially when refactoring complex/large amounts of code.
    
