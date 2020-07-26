@@ -6,8 +6,7 @@
  * In our analysis we compared the performance of 12 companies in the years 2017 & 2018.
  * The metrics we used to measure were Total Daily Volume and Return
  * To measure Total Daily Volume we wrote the code below.
-  ... 
-      
+ ... 
       '7a) Increase volume for current ticker
         tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8)
     
