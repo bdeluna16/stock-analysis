@@ -39,6 +39,7 @@
 ## Summary
 * Advantages of refactoring code:
  1. Code runs a lot faster
+
 ![image](https://user-images.githubusercontent.com/67936161/88488825-ccdd4380-cf44-11ea-9c3a-f94429c43c9e.png)
 ![image](https://user-images.githubusercontent.com/67936161/88488829-d8306f00-cf44-11ea-989f-b29538de9fe8.png)
  ![image](https://user-images.githubusercontent.com/67936161/88488563-e54c5e80-cf42-11ea-81ad-90cc49b35f2b.png)
