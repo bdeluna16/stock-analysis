@@ -33,3 +33,4 @@
  
 ![image](https://user-images.githubusercontent.com/67936161/88487775-e24e6f80-cf3c-11ea-859d-e5cf093ee6d8.png)
 ![image](https://user-images.githubusercontent.com/67936161/88487787-0447f200-cf3d-11ea-804b-667fa25eda43.png)
+* 2017: All stocks except TERP had a positive return for the year. DQ had the highest rate of return at 199.4%. However, it had the lowest amount volume. What this means is that although DQ had really good performance in regards to their return for the year, the low amount of volume indicates that not a lot of investors were confident in trading this stock as compared to others in the same industry. The low volume could indicate trading volatility or market uncertainty and thus we cannot deem DQ a good investment soley based ont the rate of return.
