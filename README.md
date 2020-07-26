@@ -37,7 +37,7 @@
 * **2018**: All stocks except for ENPH & RUN had negative returns for the year. Our initial analyis of DQ's stock performance based on the data for 2017 was correct. Although 2017 yielded high returns the low volume indicated market volitality/uncertainty. In 2018 DQ's share price fell 62.6%. If Steve's parents were to have invested in 2017 they would have lost money in 2018. Based on the results for 2018 ENPH and RUN are the best companies to invest in. Both companies had positive returns in 2017 & 2018 and high amount of volume which means investors are actively trading their stock and more willing to risk higher amounts of money into the company.
 * **Conclusion**: Steve's parents should not invest all of their money into DQ. Instead, they should consider diversifying their funds into ENPH & RUN.
 ## Summary
-* Advantages of refactoring code:
+### Advantages of refactoring code:
  
   **1.** Code runs a lot faster. The initial code ran at an average pace of 0.6464844 seconds while the refactored code ran at an average pace of 0.0996094. The refactored code runs significanlty faster than the initial code.
 
@@ -48,7 +48,7 @@
  
   **2.** The refactored code can be used again in different workbooks and different dataset making it very versatile. 
  
- * Disadvantages of refactoring code:
+ ### Disadvantages of refactoring code:
   
    **1.** It can be time consuming to refactor code.
   
