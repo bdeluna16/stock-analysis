@@ -38,6 +38,7 @@
 * **Conclusion**: Steve's parents should not invest all of their money into DQ. Instead, they should consider diversifying their funds into ENPH & RUN.
 ## Summary
 * Advantages of refactoring code:
+ 
  **1.** Code runs a lot faster. The initial code ran at an average pace of 0.6464844 seconds while the refactored code ran at an average pace of 0.0996094. The refactored code runs significanlty faster than the initial code.
 
 ![image](https://user-images.githubusercontent.com/67936161/88488825-ccdd4380-cf44-11ea-9c3a-f94429c43c9e.png)
