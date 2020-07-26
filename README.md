@@ -36,3 +36,11 @@
 * **2017**: All stocks except TERP had a positive return for the year. DQ had the highest rate of return at 199.4%. However, it had the lowest amount volume. What this means is that although DQ had really good performance in regards to their return for the year, the low amount of volume indicates that not a lot of investors were confident in trading this stock as compared to others in the same industry. The low volume could indicate trading volatility or market uncertainty and thus we cannot deem DQ a good investment soley based ont the rate of return.
 * **2018**: All stocks except for ENPH & RUN had negative returns for the year. Our initial analyis of DQ's stock performance based on the data for 2017 was correct. Although 2017 yielded high returns the low volume indicated market volitality/uncertainty. In 2018 DQ's share price fell 62.6%. If Steve's parents were to have invested in 2017 they would have lost money in 2018. Based on the results for 2018 ENPH and RUN are the best companies to invest in. Both companies had positive returns in 2017 & 2018 and high amount of volume which means investors are actively trading their stock and more willing to risk higher amounts of money into the company.
 * **Conclusion**: Steve's parents should not invest all of their money into DQ. Instead, they should consider diversifying their funds into ENPH & RUN.
+## Summary
+* Advantages of refactoring code:
+ 1. Code runs a lot faster
+ ![image](https://user-images.githubusercontent.com/67936161/88488744-1711f500-cf44-11ea-962e-f8ae1b1c1100.png)
+ ![image](https://user-images.githubusercontent.com/67936161/88488759-25f8a780-cf44-11ea-9f23-7c9053428f7a.png)
+ ![image](https://user-images.githubusercontent.com/67936161/88488563-e54c5e80-cf42-11ea-81ad-90cc49b35f2b.png)
+ ![image](https://user-images.githubusercontent.com/67936161/88488572-f6956b00-cf42-11ea-94db-e87219ecd65d.png)
+ 
