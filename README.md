@@ -27,7 +27,8 @@
    Cells(20 + i, 2).Value = tickerVolumes(i)
    Cells(20 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
  ```
- * This code summed up the total daily volume for each stock in the given year. It also found the starting & ending price of the first & last trading day in the year. Once it foudn those values the code dived ending price by starting and subtracted 1 to give us the return for the year.
+ * To get total daily volume for each stock the code went through through all of the data and summed the all of the daily volume for each company.
+ * To get the return for the year the code found the starting price & ending price on the first & last trading day of the year. Once it got those values it divided ending price by starting price and subtracted that value by 1 to get the return for the year.
  
  
 ![image](https://user-images.githubusercontent.com/67936161/88487775-e24e6f80-cf3c-11ea-859d-e5cf093ee6d8.png)
