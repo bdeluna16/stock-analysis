@@ -19,6 +19,14 @@
             
         tickerIndex = tickerIndex + 1
  ```
+ ```
+ For i = 0 To 11
+    
+   Worksheets("All Stocks Analysis").Activate
+   Cells(20 + i, 1).Value = tickers(i)
+   Cells(20 + i, 2).Value = tickerVolumes(i)
+   Cells(20 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
+ ```
  
 ![image](https://user-images.githubusercontent.com/67936161/88487775-e24e6f80-cf3c-11ea-859d-e5cf093ee6d8.png)
 ![image](https://user-images.githubusercontent.com/67936161/88487787-0447f200-cf3d-11ea-804b-667fa25eda43.png)
