@@ -38,10 +38,16 @@
 * **Conclusion**: Steve's parents should not invest all of their money into DQ. Instead, they should consider diversifying their funds into ENPH & RUN.
 ## Summary
 * Advantages of refactoring code:
- 1. Code runs a lot faster. The initial code ran at an average pace of 0.6464844 seconds while the refactored code ran at an average pace of 0.0996094. The refactored code runs significanlty faster than the initial code.
+ **1.** Code runs a lot faster. The initial code ran at an average pace of 0.6464844 seconds while the refactored code ran at an average pace of 0.0996094. The refactored code runs significanlty faster than the initial code.
 
 ![image](https://user-images.githubusercontent.com/67936161/88488825-ccdd4380-cf44-11ea-9c3a-f94429c43c9e.png)
 ![image](https://user-images.githubusercontent.com/67936161/88488829-d8306f00-cf44-11ea-989f-b29538de9fe8.png)
  ![image](https://user-images.githubusercontent.com/67936161/88488563-e54c5e80-cf42-11ea-81ad-90cc49b35f2b.png)
  ![image](https://user-images.githubusercontent.com/67936161/88488572-f6956b00-cf42-11ea-94db-e87219ecd65d.png)
  
+  **2.** The refactored code can be used again in different workbooks and different dataset making it very versatile. 
+ 
+ * Disadvantages of refactoring code:
+   **1.** It can be time consuming to refactor code.
+   **2.** It could introduce errors especially when refactoring complex/large amounts of code.
+   
