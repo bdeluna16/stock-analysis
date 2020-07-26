@@ -7,22 +7,16 @@
  * The metrics we used to measure were Total Daily Volume and Return
  * To measure Total Daily Volume we wrote the code below.
  ``` 
-      '7a) Increase volume for current ticker
         tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8)
     
-    '7b) Check if the current row is the first row with the selected tickerIndex.
     If Cells(i - 1, 1).Value <> tickers(tickerIndex) And Cells(i, 1).Value = tickers(tickerIndex) Then
             tickerStartingPrices(tickerIndex) = Cells(i, 6).Value
-    'End If
      End If
-   
-    
-    '7c) check if the current row is the last row with the selected ticker
+  
     'If  Then
         If Cells(i + 1, 1).Value <> tickers(tickerIndex) And Cells(i, 1).Value = tickers(tickerIndex) Then
             tickerEndingPrices(tickerIndex) = Cells(i, 6).Value
-
-        '7d Increase the tickerIndex.
+            
         tickerIndex = tickerIndex + 1
  ```
  
