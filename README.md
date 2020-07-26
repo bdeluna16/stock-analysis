@@ -53,4 +53,12 @@
    **1.** It can be time consuming to refactor code.
   
    **2.** It could introduce errors especially when refactoring complex/large amounts of code.
+
+## How These Pros & Cons Applied to Refactoring the Initial Code
+
+ **1.** As mentioned above refactoring code made our code run significantly faster. Instead of looping over the data multiple times refactoring the code allowed us to loop over all of the data just once. This significantly reduced the amount of time it took to run the code. 
+ 
+ **2.** If Steve wanted us to analyze another set of stocks, or even add more green energy stocks, this same code can be used to run the analysis.
+ 
+ **3.** This code was time consuming to refactor and if our initial code was more complex it would be even more difficult to refactor.
    
